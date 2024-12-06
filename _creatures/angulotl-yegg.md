@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Angulotl Yegg"
-tags: [small, humanoid, retainer, flee-mortals]
+tags: [small, humanoid, retainer, cr0 flee-mortals]
 cha: 10 (+0)
 wis: 14 (+2)
 int: 10 (+0)
