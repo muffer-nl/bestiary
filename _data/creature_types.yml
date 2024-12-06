@@ -4,6 +4,8 @@
   tag: beast
 - name: Celestials
   tag: celestial
+- name: Companions
+  tag: companion
 - name: Constructs
   tag: construct
 - name: Dragons
@@ -26,5 +28,7 @@
   tag: ooze
 - name: Plants
   tag: plant
+- name: Retainers
+  tag: retainer
 - name: Undead
   tag: undead
