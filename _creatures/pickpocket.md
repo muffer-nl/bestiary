@@ -1,5 +1,5 @@
 ---
-layout: creater
+layout: creature
 name: "Pickpocket"
 tags: [medium, humanoid, cr1/8, The-Straight-Way-Lost]
 str: 10 (0)
